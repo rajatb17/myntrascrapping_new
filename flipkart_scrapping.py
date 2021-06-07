@@ -21,7 +21,7 @@ import re
 #from pymongo import MongoClient
 import json
 
-
+#edit
 url = 'https://www.myntra.com/lifestyle?extra_search_param=isautosuggestentry%3atrue%3a%3aid%3a2297-lifestyle'
 path_chrome = r'C:\Users\Administrator\Downloads\chromedriver_win32\chromedriver.exe'
 path = r'D:\Rajat stuff\myntra_scraping.csv'
