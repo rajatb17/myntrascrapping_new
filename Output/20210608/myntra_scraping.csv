@@ -1,0 +1,51 @@
+Index,TimeStamp,Site,ProductName,ProductUrl,ProductBrand,OriginalPrice,CurrentPrice,DiscAvailable,Discount%
+1,06-08-2021 03:21,Myntra,Solid Shoulder Bag,https://www.myntra.com/handbags/ginger-by-lifestyle/ginger-by-lifestyle-grey-solid-shoulder-bag/11559556/buy,Ginger,2299,1379,TRUE,40
+2,06-08-2021 03:21,Myntra,Solid Sling Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-beige-solid-sling-bag/10905798/buy,CODE,1799,899,TRUE,50
+3,06-08-2021 03:21,Myntra,Women Leggings,https://www.myntra.com/leggings/melange-by-lifestyle/melange-by-lifestyle-women-black-leggings/6711314/buy,Melange,499,499,FALSE,0
+4,06-08-2021 03:21,Myntra,Women Solid Jeggings,https://www.myntra.com/jeggings/code-by-lifestyle/code-by-lifestyle-women-black-treggings/7744625/buy,CODE,1299,1299,FALSE,0
+5,06-08-2021 03:21,Myntra,Women Leggings,https://www.myntra.com/leggings/melange-by-lifestyle/melange-by-lifestyle-women-off-white-leggings/6711303/buy,Melange,499,499,FALSE,0
+6,06-08-2021 03:21,Myntra,Solid Satchel,https://www.myntra.com/handbags/ginger-by-lifestyle/ginger-by-lifestyle-champagne-solid-satchel/14040240/buy,Ginger,1699,1699,FALSE,0
+7,06-08-2021 03:21,Myntra,Women Woven Design Slip-On Sneakers,https://www.myntra.com/casual-shoes/ginger-by-lifestyle/ginger-by-lifestyle-women-burgundy-slip-on-sneakers/13577622/buy,Ginger,1999,1399,TRUE,30
+8,06-08-2021 03:21,Myntra,Women Woven Design Slip-On Sneakers,https://www.myntra.com/casual-shoes/ginger-by-lifestyle/ginger-by-lifestyle-women-pink-slip-on-sneakers/13577614/buy,Ginger,2299,1402,TRUE,39
+9,06-08-2021 03:21,Myntra,Colourblocked Shoulder Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-black-colourblocked-shoulder-bag/14152818/buy,CODE,2299,2299,FALSE,0
+10,06-08-2021 03:21,Myntra,Women Textured Backpacks,https://www.myntra.com/backpacks/ginger-by-lifestyle/ginger-by-lifestyle-women-black-textured-backpacks/14154010/buy,Ginger,1499,1499,FALSE,0
+11,06-08-2021 03:21,Myntra,Colourblocked Satchel,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-black-colourblocked-satchel/14152846/buy,CODE,2299,2299,FALSE,0
+12,06-08-2021 03:21,Myntra,Textured Sling Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-grey-textured-sling-bag/11271420/buy,CODE,1799,1799,FALSE,0
+13,06-08-2021 03:21,Myntra,Women Woven Design Slip-On Sneakers,https://www.myntra.com/casual-shoes/ginger-by-lifestyle/ginger-by-lifestyle-women-grey-slip-on-sneakers/13577624/buy,Ginger,1999,1399,TRUE,30
+14,06-08-2021 03:21,Myntra,Bodycon Dress,https://www.myntra.com/dresses/ginger-by-lifestyle/ginger-by-lifestyle-black-bodycon-dress/14334864/buy,Ginger,2299,2299,FALSE,0
+15,06-08-2021 03:21,Myntra,Printed Top,https://www.myntra.com/tops/juniors-by-lifestyle/juniors-by-lifestyle-girls-grey-printed-top/11426580/buy,Juniors,299,254,TRUE,15
+16,06-08-2021 03:21,Myntra,Regular Top,https://www.myntra.com/tops/code-by-lifestyle/code-by-lifestyle-burgundy-regular-top/13846874/buy,CODE,1299,909,TRUE,30
+17,06-08-2021 03:21,Myntra,Women Textured Heels,https://www.myntra.com/heels/melange-by-lifestyle/melange-by-lifestyle-women-grey-textured-heels/13375484/buy,Melange,1599,1199,TRUE,25
+18,06-08-2021 03:21,Myntra,Solid Handheld Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-rust-solid-handheld-bag/14152848/buy,CODE,2399,2399,FALSE,0
+19,06-08-2021 03:21,Myntra,Women Textured Ballerinas,https://www.myntra.com/flats/ginger-by-lifestyle/ginger-by-lifestyle-women-black-textured-ballerinas/13381230/buy,Ginger,1499,899,TRUE,40
+20,06-08-2021 03:21,Myntra,Girls Printed Top,https://www.myntra.com/tops/juniors-by-lifestyle/juniors-by-lifestyle-girls-pink-printed-top/11957652/buy,Juniors,299,254,TRUE,15
+21,06-08-2021 03:21,Myntra,Women Pumps,https://www.myntra.com/heels/ginger-by-lifestyle/ginger-by-lifestyle-women-grey-solid-pumps/13752268/buy,Ginger,1899,1899,FALSE,0
+22,06-08-2021 03:21,Myntra,Girls Printed Top,https://www.myntra.com/tops/juniors-by-lifestyle/juniors-by-lifestyle-girls-white-printed-top/13117104/buy,Juniors,399,339,TRUE,15
+23,06-08-2021 03:21,Myntra,Women Churidar,https://www.myntra.com/churidar/melange-by-lifestyle/melange-by-lifestyle-women-off-white-churidar/6711316/buy,Melange,499,499,FALSE,0
+24,06-08-2021 03:21,Myntra,Infant Boys Clothing Set,https://www.myntra.com/clothing-set/juniors-by-lifestyle/juniors-by-lifestyle-infant-boys-clothing-set/13406828/buy,Juniors,1299,909,TRUE,30
+25,06-08-2021 03:21,Myntra,Women Woven Design Slip-On Sneakers,https://www.myntra.com/casual-shoes/ginger-by-lifestyle/ginger-by-lifestyle-women-pink-slip-on-sneakers/13577644/buy,Ginger,2299,1517,TRUE,34
+26,06-08-2021 03:21,Myntra,Solid Satchel,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-tan-solid-satchel/14152810/buy,CODE,1699,1699,FALSE,0
+27,06-08-2021 03:21,Myntra,Textured Handheld Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-brown-textured-handheld-bag/14029812/buy,CODE,3199,3199,FALSE,0
+28,06-08-2021 03:21,Myntra,Women Ballerinas,https://www.myntra.com/flats/ginger-by-lifestyle/ginger-by-lifestyle-women-black-solid-ballerinas/13665466/buy,Ginger,1599,1007,TRUE,37
+29,06-08-2021 03:21,Myntra,Women Sandals,https://www.myntra.com/heels/ginger-by-lifestyle/ginger-by-lifestyle-women-pink-solid-sandals/13821970/buy,Ginger,1699,1206,TRUE,29
+30,06-08-2021 03:21,Myntra,Solid Satchel,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-pink-solid-satchel/14152824/buy,CODE,2299,2299,FALSE,0
+31,06-08-2021 03:21,Myntra,Solid Satchel,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-beige-solid-satchel/14152814/buy,CODE,1699,1699,FALSE,0
+32,06-08-2021 03:21,Myntra,Girls Printed Top,https://www.myntra.com/tops/juniors-by-lifestyle/juniors-by-lifestyle-girls-multicoloured-printed-top/13310050/buy,Juniors,699,489,TRUE,30
+33,06-08-2021 03:21,Myntra,Women Solid Pumps,https://www.myntra.com/heels/ginger-by-lifestyle/ginger-by-lifestyle-women-beige-solid-pumps/13751584/buy,Ginger,1699,1699,FALSE,0
+34,06-08-2021 03:21,Myntra,Women Mules,https://www.myntra.com/heels/code-by-lifestyle/code-by-lifestyle-women-tan-textured-mules/14123618/buy,CODE,1499,1499,FALSE,0
+35,06-08-2021 03:21,Myntra,Solid Shoulder Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-white-solid-shoulder-bag/13746332/buy,CODE,2199,2199,FALSE,0
+36,06-08-2021 03:21,Myntra,Women Backpack,https://www.myntra.com/backpacks/ginger-by-lifestyle/ginger-by-lifestyle-women-brown-backpack/14154000/buy,Ginger,2099,2099,FALSE,0
+37,06-08-2021 03:21,Myntra,Peplum Top,https://www.myntra.com/tops/ginger-by-lifestyle/ginger-by-lifestyle-yellow-peplum-top/14163314/buy,Ginger,999,999,FALSE,0
+38,06-08-2021 03:21,Myntra,Women Solid Top,https://www.myntra.com/tops/ginger-by-lifestyle/ginger-by-lifestyle-women-pink-solid-top/12137996/buy,Ginger,699,349,TRUE,50
+39,06-08-2021 03:21,Myntra,Solid Top,https://www.myntra.com/tops/ginger-by-lifestyle/ginger-by-lifestyle-women-mustard-solid-top/12031080/buy,Ginger,699,349,TRUE,50
+40,06-08-2021 03:21,Myntra,Girls Printed Top,https://www.myntra.com/tops/juniors-by-lifestyle/juniors-by-lifestyle-girls-multicoloured-printed-top/12999444/buy,Juniors,1199,839,TRUE,30
+41,06-08-2021 03:21,Myntra,Printed Top,https://www.myntra.com/tops/ginger-by-lifestyle/ginger-by-lifestyle-women-black-printed-top/13586992/buy,Ginger,999,999,FALSE,0
+42,06-08-2021 03:21,Myntra,Women Solid Backpack,https://www.myntra.com/backpacks/ginger-by-lifestyle/ginger-by-lifestyle-women-black-solid-backpack/11559618/buy,Ginger,1699,1699,FALSE,0
+43,06-08-2021 03:21,Myntra,Printed Bardot Top,https://www.myntra.com/tops/code-by-lifestyle/code-by-lifestyle-green-printed-bardot-top/13932564/buy,CODE,1699,1699,FALSE,0
+44,06-08-2021 03:21,Myntra,Women Solid Pumps,https://www.myntra.com/heels/code-by-lifestyle/code-by-lifestyle-women-blue-solid-pumps/13864302/buy,CODE,1899,1899,FALSE,0
+45,06-08-2021 03:21,Myntra,Printed Top,https://www.myntra.com/tops/ginger-by-lifestyle/ginger-by-lifestyle-women-black-printed-top/13309538/buy,Ginger,1299,1299,FALSE,0
+46,06-08-2021 03:21,Myntra,Women Pumps,https://www.myntra.com/heels/code-by-lifestyle/code-by-lifestyle-women-pink-solid-pumps/13864310/buy,CODE,1899,1899,FALSE,0
+47,06-08-2021 03:21,Myntra,Textured Satchel,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-black-textured-satchel/14152854/buy,CODE,2299,2299,FALSE,0
+48,06-08-2021 03:21,Myntra,Printed Sweatshirt,https://www.myntra.com/tshirts/ginger-by-lifestyle/ginger-by-lifestyle-women-pink-printed-sweatshirt/13846788/buy,Ginger,1049,734,TRUE,30
+49,06-08-2021 03:21,Myntra,Colourblocked Handheld Bag,https://www.myntra.com/handbags/code-by-lifestyle/code-by-lifestyle-brown-colourblocked-handheld-bag/14029796/buy,CODE,2299,2299,FALSE,0
+50,06-08-2021 03:21,Myntra,Women Sandals,https://www.myntra.com/heels/ginger-by-lifestyle/ginger-by-lifestyle-women-green-embellished-sandals/13795068/buy,Ginger,1299,1299,FALSE,0
